@@ -1,2 +1,3 @@
 name: Philip Kershaw
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
